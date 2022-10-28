@@ -1,7 +1,7 @@
 body {
   margin: 71px 89px;
   display: flex;
-  height: 100vh;
+  height: 80vh;
   flex-direction: column;
   font-family: "JetBrains Mono", monospace;
   background: #2f2e41;
@@ -103,5 +103,5 @@ footer a {
   position: fixed;
   height: 62px;
   left: 20px;
-  top: 638px;
+  top: 838px;
 }
